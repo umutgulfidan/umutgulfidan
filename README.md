@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umutgulfidan&label=Profile%20views&color=0e75b6&style=flat" alt="umutgulfidan" /> </p>
 
-- 📫 How to reach me **umutgulfidan41@gmail.com**
+<p align="center">- 📫 How to reach me **umutgulfidan41@gmail.com**</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
