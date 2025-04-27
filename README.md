@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umut Gülfidan</h1>
-<h3 align="center">I'm an İnformation Systems Engineering Student at Kocaeli University.</h3>
+<h3 align="center">I'm an Information Systems Engineering Student at Kocaeli University.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umutgulfidan&label=Profile%20views&color=0e75b6&style=flat" alt="umutgulfidan" /> </p>
 
-<p align="center">- 📫 How to reach me **umutgulfidan41@gmail.com**</p>
+<p align="center">- 📫 How to reach me *umutgulfidan41@gmail.com*</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
